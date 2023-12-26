@@ -1,16 +1,23 @@
-### Hi there 👋
+# 💫 About Me:
+Full-stack developer passionate about creating efficient, user-friendly web applications. Skilled in front-end and back-end technologies.
 
-<!--
-**sampad-singha/sampad-singha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=sampad-singha&icon=5&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sampad.99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sampad__singha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampad-singha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13691972) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+## <img width="40px" src="https://skillicons.dev/icons?i=git,kubernetes"/> Languages:
+[![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,java,php&perline=6)](#)
+## 🌐 Frameworks:
+[![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react,nodejs,vite&perline=6)](#)
+## 🌐 Database:
+[![Database](https://skillicons.dev/icons?i=mysql,firebase&perline=6)](#)
+## 🌐 Other Technologies 🌐:
+[![Other Technologies](https://skillicons.dev/icons?i=mysql,firebase&perline=6)](#)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sampad-singha&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sampad-singha&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sampad-singha&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=sampad-singha&icon=5&color=0)](https://visitcount.itsvg.in)
